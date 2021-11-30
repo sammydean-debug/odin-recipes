@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Recipe Project<title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My First Recipe Book</h1>
+    <h2>I learned how to make a secondary header</h2>
+    <h3> Other things I have learned</h3>
+        <li>How to make a list</li>
+        <li><strong>How to make things bold</strong></li>
+        <li><em>How to make things italicized</em></li>
+    
+</body>
+</html>
